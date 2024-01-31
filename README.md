@@ -11,4 +11,4 @@
 - Sales by Loyalty status
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/dashboard.png" width="200"/>
+<img align="left" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/dashboard.png" width="700"/>
